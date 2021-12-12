@@ -62,9 +62,7 @@ iframe {
   bottom: 580px;
   font-size: 25px;
   z-index: 2;
-  /*margin-top: 10px;*/
   color: #ffffff;
-  animation: animate-chatbot 1.2s 3.5s 1 forwards;
   opacity: 0;
   cursor: pointer;
 }
