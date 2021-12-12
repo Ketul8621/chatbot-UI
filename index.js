@@ -8,6 +8,7 @@ chatIcon.addEventListener("click", () => {
   iframe.src = "/chat-container.html";
   chatIcon.style.display = "none";
   close.style.display = "block";
+  close.style.animation = "animate-chatbot 1.2s 3s 1 forwards";
 });
 
 close.addEventListener("click", () => {
