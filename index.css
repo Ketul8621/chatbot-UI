@@ -6,7 +6,7 @@
 
 @font-face {
   font-family: "DM Sans";
-  src: url("/fonts/DMSans-Regular.ttf");
+  src: url("/chatbot-UI/fonts/DMSans-Regular.ttf");
 }
 
 @keyframes animate-chatbot {
