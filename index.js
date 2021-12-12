@@ -5,7 +5,7 @@ const close = document.querySelector("#close");
 console.log(iframe);
 chatIcon.addEventListener("click", () => {
   console.log(iframe);
-  iframe.src = "/chatbot-UI/chat-container.html";
+  iframe.src = "/chat-container.html";
   chatIcon.style.display = "none";
   close.style.display = "block";
 });
