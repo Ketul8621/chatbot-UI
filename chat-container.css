@@ -310,7 +310,6 @@ body {
 }
 
 .questions p {
-  display: contents;
   margin-left: 10px;
   color: #2d2d2d;
   font-weight: normal;
